@@ -3,6 +3,7 @@ layout: post
 title: First Tech Post
 description: >
   some description
+image: /assets/img/blog/caleb-george.jpg  
 ---
 
-# Some stuff here
+# First Tech Post

@@ -3,6 +3,7 @@ layout: post
 title: First Math Post
 description: >
   some description
+image: /assets/img/blog/louis-hansel.jpg  
 ---
 
-# Some stuff here
+# First Math Post

@@ -52,11 +52,11 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Home
+  - title:             Blog
     url:               /
-  - title:             Tech Blog
+  - title:             Tech
     url:               /tech/
-  - title:             Math Blog
+  - title:             Math
     url:               /math/
   - title:             Resume
     url:               /resume/

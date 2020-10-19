@@ -2,7 +2,8 @@
 layout: post
 title: Second Tech Post
 description: >
-  some description 
+  some description
+image: /assets/img/blog/steve-harvey.jpg
 ---
 
-# Some stuff here
+# Second Tech Post
