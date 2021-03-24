@@ -40,6 +40,10 @@ The build time optimization is based on novel genetic algorithm applied to const
 
 8. **Sococo Blueprints**: automatically generate maps for [Sococo App](https://www.sococo.com/), given a simple Blueprint floorplan file. This cut down the end to end time to design a new Map for sococo by 50%. Novel tools like ipywidgets and voila was used to rapidly prototype and deliver the UI.  
 
+9. **Quantum Retail 5k Rewrite**: [Quantum Retail](http://quantumretail.com/) is an intelligent supply chain optimization software. Currently at 800k lines of java code. Me at codenation, redesigned and rewrote the application under 5k lines leveraging Amazon Glue, Amazon Forecast, Amazon Athena services from AWS. Performed big data analysis of 10TB of customer inventory management data. Optimized supply chain for maximizing expected profit and service level, under warehouse distribution constraints using Non-linear optimization suite called GEKKO.
+
+10. **Live DB Migration using DMS and Scalearc**: We at codenation have clients that want to move there 1600 Database from on-prem to cloud (Amazon RDS). While DMS by AWS provides lives change synchronization, leveraging [Scalearc](https://www.ignitetech.com/scalearc/) the Database load balanced, we execute live switching over of DB traffic from on-prem to cloud database. Also, adding to features of DMS, we automatically migrate remaining Schema objects that DMS did not migrate. (Currently this project is in progress, end date is April 16 2021).
+
 ## Education
 Jan 2012 - July 2016
 Bachelor in Computer Science and Engineering form PES University.
