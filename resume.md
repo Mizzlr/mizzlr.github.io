@@ -1,8 +1,9 @@
 # Résumé: Mushtaque Ahamed
 
-This is Mushtaque Ahamed, a software engineer and tech enthusiast
+This is Mushtaque Ahamed, a **software engineer** and tech enthusiast
 hailing from Bangalore, India. He has earned degree in B.E.CSE
-from PES University.
+from **PES University**, and has been part of **Codenation** and **Amazon** professionally,
+and a **mathematician** at heart, and a **database geek**.
 
 ## Websites:
 * [https://mizzlr.github.io](https://mizzlr.github.io)
@@ -11,7 +12,19 @@ from PES University.
 
 ## Experience
 
-July 2016 - Present
+My focus is on **learnings** and **delivering results**. Learnings technical and otherwise is how I measure **my growth**. And delivering resulting is how I define **my success** at the organization I work.
+
+### Amazon Development Center: July 2021 - present
+
+Software Development Engineer - SDE 2, Bangalore
+
+### My Projects at Amazon Development Center 
+
+1. **DiCE**: Digital Contract Execution is the **backbone workflow engine** that powers the entirity of Amazon's Digital businesses, such as **Prime Video, Kindle, Music, Games** and 100s more businesses. The workflow involves Fraud Check -> Billing (includes tax calculations) -> Fulfillment -> Payment. Here I implemented and delivered integration for compliance of Tax Rule engine that handles new tax jurisdication policies affecting Canada, Mexico and US. I also provided excellent service while being on-call handling operations where **billions of dollars flow every day**.
+
+2. **Alexa on Wearables segment**: The project is to bring Alexa to a new segment of market called Wearables, starting with **Fossil Smartwatches**. Here I implemented features such as SMS messaging, Contact Book synchronization etc to bring parity to other existing such as **Phone and Automobile**. Worked on Java, C++, Android as part of the project.
+
+### Codenation: July 2016 - July 2021
 
 Senior Innovator at [CodeNation Innovation Labs (CNIL)](http://codenation.co.in/)
 
@@ -20,6 +33,7 @@ CNIL provides static code analysis and engineering services to
 [ESW Capital](http://www.eswcapital.com/wp-content/uploads/ESW-Capital-Overview.pdf) at large.
 
 As a part of my work at CNIL, I had solved some of the toughest problems in static code analysis.
+**As a result, I have became the expert in code quality insisting on high standards for coding and software engineering practices.**
 
 ### My Projects at CodeNation
 
@@ -49,10 +63,26 @@ Jan 2012 - July 2016
 Bachelor in Computer Science and Engineering form PES University.
 Read my [impressive résumé](/assets/resume.pdf) at the beginning of my career.
 
+In short
+1. I have been **state topper rank #1** holder during my time under PES University (affiliated to VTU)
+2. I have secured **99% in Mathematics, 99% in Physics, 98% in Computer Science, and 97% in Chemistry**
+3. I have been in top 99.4 percentile of the students is VTU. 
+4. I have worked an 25+ of projects ranging from math, coding, embeddeding hardware to data science.
+
+
 ## Technical Skills
 
-* Languages: Python, Java, Javascript, MySQL, Neo4j Cypher
-* File formats: JSON, XML, SVG
-* Frameworks: Django, Flask, Spring Boot
-* OS: Linux/ Mac/ Docker
-* Cloud: AWS/ GCP/ Kubernetes
+* Languages: Python, Java, Javascript, Typescript, C++, Elixir, Erlang
+* Databases: MySQL, Postgres, Redis, Elasticsearch, Mongo DB, Neo4j Cypher, Clickhouse OLAP
+* File Formats: JSON, XML, SVG, Parquet, HTML, CSS
+* Frameworks: Django, Flask, Spring Boot, Dagster ETL, Phoenix, Pandas, Numpy, Plotly, Dash
+* Operating Systems: Linux, Mac, Docker, Android, Windows
+* Cloud: AWS, GCP, Kubernetes, Digital Ocean, Backblaze B2
+
+## Hobbies
+
+1. Quantitative Market Research
+2. Data Science and Data Engineering
+3. Cooking new Recipes from Youtube
+
+
