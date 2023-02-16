@@ -12,7 +12,9 @@ and a **mathematician** at heart, and a **database geek**.
 
 ## Experience
 
-My focus is on **learnings** and **delivering results**. Learnings technical and otherwise is how I measure **my growth**. And delivering resulting is how I define **my success** at the organization I work.
+My focus is on **learnings** and **delivering results**. 
+Learnings technical and otherwise is how I measure **my growth**. 
+And delivering resulting is how I define **my success** in the organization I am working at.
 
 ### Amazon Development Center: July 2021 - present
 
@@ -22,7 +24,7 @@ Software Development Engineer - SDE 2, Bangalore
 
 1. **DiCE**: Digital Contract Execution is the **backbone workflow engine** that powers the entirity of Amazon's Digital businesses, such as **Prime Video, Kindle, Music, Games** and 100s more businesses. The workflow involves Fraud Check -> Billing (includes tax calculations) -> Fulfillment -> Payment. Here I implemented and delivered integration for compliance of Tax Rule engine that handles new tax jurisdication policies affecting Canada, Mexico and US. I also provided excellent service while being on-call handling operations where **billions of dollars flow every day**.
 
-2. **Alexa on Wearables segment**: The project is to bring Alexa to a new segment of market called Wearables, starting with **Fossil Smartwatches**. Here I implemented features such as SMS messaging, Contact Book synchronization etc to bring parity to other existing such as **Phone and Automobile**. Worked on Java, C++, Android as part of the project.
+2. **Alexa on Wearables segment**: The project is to bring Alexa to a new segment of market called Wearables, starting with **Fossil Smartwatches**. Here I implemented features such as SMS messaging, Contact Book synchronization etc to bring parity to other existing segments such as **Phone and Automobile**. Worked on Java, C++, Android as part of the project.
 
 ### Codenation: July 2016 - July 2021
 
@@ -64,10 +66,10 @@ Bachelor in Computer Science and Engineering form PES University.
 Read my [impressive résumé](/assets/resume.pdf) at the beginning of my career.
 
 In short
-1. I have been **state topper rank #1** holder during my time under PES University (affiliated to VTU)
-2. I have secured **99% in Mathematics, 99% in Physics, 98% in Computer Science, and 97% in Chemistry**
-3. I have been in top 99.4 percentile of the students is VTU. 
-4. I have worked an 25+ of projects ranging from math, coding, embeddeding hardware to data science.
+1. I have been **state topper rank #1** holder during my time under PES University (affiliated to VTU).
+2. I have secured **99% in Mathematics, 99% in Physics, 98% in Computer Science, and 97% in Chemistry** in PUC 2nd year.
+3. I have been in **top 99.4 percentile** of the students in CET. 
+4. I have worked an **25+ projects** ranging from math, coding, embeddeding hardware to data science.
 
 
 ## Technical Skills
